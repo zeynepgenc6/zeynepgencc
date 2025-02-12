@@ -1,0 +1,31 @@
+.about-section h1 {
+  font-size: 64px;
+  line-height: 1.5;
+}
+.about-section h2 {
+  font-size: 18px;
+  line-height: 1.5;
+}
+img {
+  width: 500px;
+  border-radius: 30px;
+  padding: 20px 10px;
+}
+.about-section-content {
+  margin: 30px;
+}
+.about-section {
+  text-align: left;
+  padding: 80px 0px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+.btn {
+  color: white;
+  background-color: black;
+}
+.btn:hover {
+  color: black;
+  background-color: white;
+  border: 1px solid;
+  cursor: pointer;
+}
